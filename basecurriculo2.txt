@@ -1,0 +1,155 @@
+Endereço: R Humberto de Campos 269    Casa 3
+Jardim Leblon - 31540-490 
+BELO HORIZONTE/Minas Gerais 
+E-mail: rafael.hanke@gmail.com
+Tel:	(31) 33176365
+(31) 88026365
+Rafael Hanke Lemos Pereira	
+Idade: 29     Sexo: Masculino    Estado Civil: Casado    Possui Filhos: Não   
+Objetivo Profissional	
+Atuar na área de Tecnologia da Informação com cargos de Engenharia de Softwares,
+Análise e Desenvolvimento de Sistemas, Análise de Negócios e de Banco de Dados. Em
+empresas que ofereçam valorização profissional através do reconhecimento e que
+investem no crescimento de seus profissionais através de treinamento, cargos e
+salários.
+Áreas/Cargos Pretendidos	
+Analista de Banco de Dados, Analista de Negócios, Analista de Sistemas, Engenheiro de
+Software, Líder Técnico
+Mini Curriculo	
+Perfil proativo, dinâmico, organizado e determinado. Bom relacionamento interpessoal
+e capacidade de liderança. 
+Experiências:
+- 12 anos com desenvolvimento Visual Basic (VB6), VB.NET, ASP.NET, SQL Server,
+Sybase, MySQL, Access, ASP e VBScript.
+- 7 anos com análise de sistemas, de negócio e levantamento de requisitos.
+- 2 anos como Líder Técnico para Fábrica de Softwares Terceirizada.
+Atuação em empresas de pequeno e médio porte dos setores de TI, Bancário e
+Educacional.
+Graduação em Ciência da Computação, Técnico em Processamento de Dados e cursos
+oficiais Microsoft SQL Server e C#.	
+Formação Acadêmica	
+curso: Desenvolvimento de Aplicações Web
+grau: Pós-Graduação
+instituição: PUC Minas
+data inicial: 09/2014
+data conclusão: 12/2015
+curso: Ciência da Computação
+grau: Graduação
+instituição: Universidade de Itaúna
+data inicial: 08/2003
+data conclusão: 07/2007
+curso: Tec. Processamento Dados
+grau: Técnico
+instituição: Col. Tec. São Francisco de Assis
+data inicial: 01/2000
+data conclusão: 12/2002
+Formação / Cursos Adicionais: 
+Course 6231A: Maintaining a Microsoft SQL Server 2008 Database (11/2009); Course
+6232A: Implementing a Microsoft SQL Server 2008 Database (11/2009); Course
+10266A: Programming in C# with Microsoft Visual Studio 2010 (12/2013); Inglês
+pela EF Englishtown (2014/em andamento);
+Experiência Profissional	
+empresa:  St Jude Medical 
+entrou em: 08/2014 
+Cargo que ocupa atualmente
+
+Cargo: Analista de Sistemas Pleno
+Data de entrada: 08/2014
+Funções: Análise e desenvolvimento de sistemas para indústria de produtos médicos.
+Sistemas destinados ao controle, documentação e rastreabilidade de
+produção. Utilização de Visual Studio 2012, C# ASP.NET, Silverlight, SQL
+Server 2008 e Visual Source Safe.
+empresa:  Banco BMG 
+entrou em: 02/2010 
+saiu em: 08/2014
+
+Cargo: Analista de Sistemas Pleno
+Data de entrada: 02/2010
+Data de saída: 08/2014
+Funções: Especificação de requisitos, análise e desenvolvimento de sistemas para
+plataforma de negócios bancários com a utilização de Visual Basic 6.0
+(VB6), VB.NET, ASP.NET, Crystal Reports, SQL Server, Sybase, WinCVS,
+WinMerge e Project. Sistemas críticos e essenciais para o negócio do banco,
+que exigem precisão dos resultados, disponibilidade e alto desempenho. Com
+demanda por agilidade nas entregas e plantão para manutenção ou
+implementação. 
+Líder técnico para fábrica de softwares externa e terceirizada,
+responsável por demandar, supervisionar e analisar as entregas dos
+desenvolvimentos realizados pelas duas fábricas.
+Análise, modelagem, reconstrução e manutenção de objetos de banco de dados
+Sybase com objeto de aumentar o desempenho e reduzir custo de
+processamento.
+empresa:  Mastermaq Softwares 
+entrou em: 11/2007 
+saiu em: 02/2010
+
+Cargo: Analista de Sistemas Pleno
+Data de entrada: 11/2007
+Data de saída: 02/2010
+Funções: Especificação de requisitos, análise e desenvolvimento de sistemas para as
+áreas contábil e tributária com foco no atendimento de obrigações legais e
+governamentais de variados níveis de complexidade. Demandando agilidade nas
+entregas e alta precisão nos resultados. Utilização de Visual Basic 6.0
+(VB6), Crystal Reports, SQL Server, Source Safe e Mantis Bug Tracker.
+empresa:  APAE Pará de Minas 
+entrou em: 06/2005 
+saiu em: 11/2007
+
+Cargo: Técnico em Processamento de Dados
+Data de entrada: 06/2005
+Data de saída: 11/2007
+Funções: Único funcionário de TI em toda a instituição de ensino, responsável por
+projetos de softwares e de hardwares. No início dos trabalhos, a
+instituição não possuía website, contava com poucos computadores, sendo
+todos eles muito defasados e alguns ainda fora da rede, softwares que não
+atendiam a todos os setores e nenhum tipo de servidor para armazenar e
+gerenciar as informações. Na área de hardware, houve atuação junto a
+fornecedores e prestadores de serviços na ampliação e renovação do parque
+tecnológico (computadores, rede e internet), que passou a contar com
+manutenção preventiva, rede interligando todos os computadores e servidor
+de armazenamento com backup, controle de tráfego e acesso. Na área de
+softwares, atuei junto ao fornecedor na especificação de novos requisitos
+para ampliação e interligação do software da instituição. Atuação também no
+desenvolvimento de software para gerenciamento educacional e de website,
+com a utilização de Visual Basic 6.0 (VB6), ASP, PHP, Access e MySQL.
+empresa:  LSoft Informática Ltda 
+entrou em: 06/2002 
+saiu em: 11/2004
+
+Cargo: Técnico em Desenvolvimento
+Data de entrada: 06/2002
+Data de saída: 11/2004
+Funções: - Especificação de requisitos;
+- Desenvolvimento com a utilização de Visual Basic 5.0 e 6.0 (VB6),
+Access, MySQL, SQL Server e Crystal Reports;
+- Suporte técnico in-loco, por telefone e pela internet;
+- Implantação in-loco e remota;
+- Treinamento in-loco;
+- Elaboração de manuais de utilização dos sistemas;
+- Venda de sistemas in-loco, por telefone e pela internet;
+- Atendimento a clientes in-loco, por telefone e pela internet;
+- Responsável pela implantação do controle de qualidade permanente 5S que
+trouxe ganhos de qualidade para os produtos, melhora no atendimento e no
+ambiente de trabalho.
+Outras Experiências
+2007 - Universidade de Itaúna - Projeto de Conclusão de Curso: Automação de Caixa de
+Supermercados Utilizando Etiquetas Eletrônicas RFID;
+2008 a 2012 - Freelancer - Análise, desenvolvimento, implantação, suporte e venda de
+software de controle comercial para pequenos lojistas, com a utilização de Visual
+Basic 6.0 (VB6), VB.NET, Crystal Reports, Access, SQL Server e MySQL;
+12/2004 a 05/2005 - Posto de Combustível Pará de Minas - Auxiliar Administrativo.
+2004 a 2007 - Freelancer - Análise, desenvolvimento e administração de websites
+educativos: Formula Pré-vestibular e História & Vestibular;
+Idiomas	
+Espanhol : Intermediário
+Inglês : Intermediário
+Habilidades	
+Avançado 
+.NET, Access, Análise Estruturada, Análise Orientada Ao Objeto, APF-Análise De Pontos De Função,
+C#, Crystal Reports, HTML, MS Excel, MS Outlook, MS Visio, MS Word, SQL, SQL Server, 
+Sybase, Transact SQL, VB.Net, VBA, Visual Basic, Visual Studio, WinMerge
+Intermediário 
+ASP, ASP.Net, IIS-InternetInformationServer, J2EE, J2SE, Mantis Bug Tracker, MS Project, 
+MySQL, Source Safe, VBScript, WinCVS
+Básico 
+C++, Java, JavaScript, PHP
